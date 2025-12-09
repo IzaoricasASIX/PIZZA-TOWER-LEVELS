@@ -1,9 +1,38 @@
 LEVELS USED:
+
+
+FLOOR 1:
   DESPEJE
   CIELO
   ARENAS
   TRIQUIÑUELAS
+        BOSS
+
+
+FLOOR 2:
     JUAQUI 333
     LAPPING 1
-    UOR
-    
+    X
+    MAZE
+
+FLOOR 3:
+
+    X
+    X
+    X
+    X 
+        X
+
+FLOOR 4:
+    X
+    X
+    X
+    X
+        X
+
+FLOOR 5:
+   X
+   X
+   X
+   UOR
+        X
