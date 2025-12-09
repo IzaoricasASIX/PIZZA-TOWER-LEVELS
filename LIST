@@ -36,3 +36,13 @@ FLOOR 5:
    X
    UOR
         X
+
+TOP:
+  X
+  X
+        CTOP
+
+SECRET WORLD:
+  X
+  X
+  X
